@@ -1,7 +1,35 @@
 # Projetos Alura 🇧🇷 🇬🇧
 
 ## 🇬🇧
-In this repository, I'm saving the directories referents to my studies in Alura courses. All the JavaScript  (JS) codes were made exclusively by me, while the html and css files were made by Alura. In order to simplify, all the Readme files will be in this one and will all be avaible in Portuguese and English.
+In this repository, I'm saving the directories related to my studies in Alura courses. All the JavaScript  (JS) codes were made exclusively by me, while the html and css files were made by Alura. In order to simplify, all the Readme files will be in this one and will all be avaible in Portuguese and English.
+
+### logica-js-projeto_inicial
+
+JavaScript implementation of a simple game of "guess the number". A number is randomly chosen and the user has to guess it based in hints.
+
+### js-curso-2-aula_5
+
+Continuation of the last project, but it is more complete now and is using plenty of HTML elements.
+
+### 3411-praticando-logica-projeto_inicial
+
+Set of 4 JS and HTML implementation challenges, they all have unique features and rising difficulty, all of them are liste below 👇. 
+
+#### alugames
+
+Simulate a game-renting website, it is able to recognize the game chosen and see if it is already rented or not. Based on that, it changes the state of the game and its image.
+
+#### amigo-secreto
+
+Application that simulates a secret santa. It recognizes the names inserted and add them to a list, then, it draws wich person each person got for secret santa.
+
+#### carrinho-compras
+
+Site simulates the opperation of a shopping website. There, you are able to add products to your cart and it automatically calculates the subtotal and total of the products chosen.
+
+#### ingresso
+
+In this website, there are given 3 options of tickets to chose from and the amount of each one is limited, every times you "buy" one, it subtracts from the total.
 
 ## 🇧🇷
 Neste repositório, serão salvos os diretórios referentes aos meus estudos nos cursos da Alura. Todos os códigos em JavaScript (JS) foram feitos por mim, ao contrário dos em html e css, que já virem prontos. Para simplificação, os Readme de todos eles será aqui. Disponíveis em Inglês e Português.
@@ -16,7 +44,7 @@ Continuação do último. Foram implementadas mais funções e usando os element
 
 ### 3411-praticando-logica-projeto_inicial
 
-Conjunto de 4 desafios de implementação de aplicações em JS e HTML com um nível crescente de dificuldade, cada um deles está listado e explicado abaixo 👇
+Conjunto de 4 desafios de implementação de aplicações em JS e HTML com um nível crescente de dificuldade, cada um deles está listado e explicado abaixo 👇.
 
 #### alugames
 
